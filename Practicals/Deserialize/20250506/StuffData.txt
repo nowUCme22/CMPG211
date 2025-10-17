@@ -1,0 +1,21 @@
+C Blue 11
+S Red 5
+R Yellow 10 5
+S Purple 8
+R Pink 9 3
+C Grey 6
+S Orange 9
+C Indigo 10
+C Red 7
+R Grey 6 2
+R Purple 8 3
+S Indigo 10
+C Pink 8
+C Orange 7
+S Blue 12
+C Yellow 6
+R Grey 8 2
+C Purple 7
+R Orange 11 3
+S Blue 8
+Explain
