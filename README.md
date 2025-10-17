@@ -21,7 +21,7 @@ The module focused on developing intermediate programming skills in Java and str
 ## 🛠️ Tools Used
 
 - **Language:** Java  
-- **IDE:** IntelliJ IDEA / Eclipse / NetBeans *(depending on use)*  
+- **IDE:** Notepad++ , Command Prompt  
 - **Academic Year:** 2025  
 - **Degree:** BSc Information Technology – Year 2, Semester 1  
 
